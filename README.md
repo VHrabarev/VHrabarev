@@ -3,7 +3,7 @@
 # Volodymyr Hrabarev - Front-end Developer
 - 🌱 I’m currently learning React-Redux, Node.js, SQL and TypeScript
 - 👯 I'm looking to collaborate on various projects or initiatives that align with my areas of expertise and interests.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/volodymyr-hrabarev-429373254/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/volodymyr-hrabarev-429373254/) or [Telegram](https://t.me/VHrabarev)
 - 🤔 I'm looking for help with gaining hands-on experience in programming 
 - ⚡ Fun fact: Why did the scarecrow win an award? Because he was outstanding in his field!
 
