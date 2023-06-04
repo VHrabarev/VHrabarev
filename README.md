@@ -12,6 +12,7 @@ I am a front-end developer with strong communication, collaboration, and problem
 
 ## Projects
 **Rick and Morty** - Welcome to our Rick and Morty Universe Wiki web app! Explore episodes and characters, register, and personalize your account. Contribute, suggest edits, and join the vibrant community of Rick and Morty fans! Join us for interdimensional adventures and mind-bending humor! [Link](https://serene-tulumba-0207af.netlify.app/)
+
 **Food Delivery app** - The project includes two main pages: the store page and the cart page. On the store page, users can browse the list of companies, their products, and add selected food items to the cart. On the cart page, users can view the basic information of their order, the total price, and have the ability to edit the order. [Link](https://merry-caramel-846316.netlify.app/shopping-cart)
 
 ## Education
